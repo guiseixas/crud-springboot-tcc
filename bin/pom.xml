@@ -12,7 +12,7 @@
 	<artifactId>CatalagoFilmes</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>CatalagoFilmes</name>
-	<description>Projeto WEB Java com Spring realizado durante o programa Lead Mentoring do Lead Dell.</description>
+	<description>Test app for TCC</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
